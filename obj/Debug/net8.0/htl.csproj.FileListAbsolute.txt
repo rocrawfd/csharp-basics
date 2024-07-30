@@ -1,0 +1,14 @@
+/home/rocrawfd/c#/htl/bin/Debug/net8.0/htl
+/home/rocrawfd/c#/htl/bin/Debug/net8.0/htl.deps.json
+/home/rocrawfd/c#/htl/bin/Debug/net8.0/htl.runtimeconfig.json
+/home/rocrawfd/c#/htl/bin/Debug/net8.0/htl.dll
+/home/rocrawfd/c#/htl/bin/Debug/net8.0/htl.pdb
+/home/rocrawfd/c#/htl/obj/Debug/net8.0/htl.GeneratedMSBuildEditorConfig.editorconfig
+/home/rocrawfd/c#/htl/obj/Debug/net8.0/htl.AssemblyInfoInputs.cache
+/home/rocrawfd/c#/htl/obj/Debug/net8.0/htl.AssemblyInfo.cs
+/home/rocrawfd/c#/htl/obj/Debug/net8.0/htl.csproj.CoreCompileInputs.cache
+/home/rocrawfd/c#/htl/obj/Debug/net8.0/htl.dll
+/home/rocrawfd/c#/htl/obj/Debug/net8.0/refint/htl.dll
+/home/rocrawfd/c#/htl/obj/Debug/net8.0/htl.pdb
+/home/rocrawfd/c#/htl/obj/Debug/net8.0/htl.genruntimeconfig.cache
+/home/rocrawfd/c#/htl/obj/Debug/net8.0/ref/htl.dll
