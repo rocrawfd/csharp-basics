@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/rocrawfd/c#/htl/htl.csproj": {}
+    "/home/rocrawfd/csharp/htl/htl.csproj": {}
   },
   "projects": {
-    "/home/rocrawfd/c#/htl/htl.csproj": {
+    "/home/rocrawfd/csharp/htl/htl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rocrawfd/c#/htl/htl.csproj",
+        "projectUniqueName": "/home/rocrawfd/csharp/htl/htl.csproj",
         "projectName": "htl",
-        "projectPath": "/home/rocrawfd/c#/htl/htl.csproj",
+        "projectPath": "/home/rocrawfd/csharp/htl/htl.csproj",
         "packagesPath": "/home/rocrawfd/.nuget/packages/",
-        "outputPath": "/home/rocrawfd/c#/htl/obj/",
+        "outputPath": "/home/rocrawfd/csharp/htl/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rocrawfd/.nuget/NuGet/NuGet.Config"
